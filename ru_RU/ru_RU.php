@@ -331,7 +331,7 @@
   'Topic moved' => 'Тема перенесена',
   'Topic should be' => 'Тема должна быть',
   'Topic: ' => 'Тема: ',
-  'Topics' => 'Темаы',
+  'Topics' => 'Темы',
   'Topics tagged with ' => 'Темы с меткой ',
   'Unable to reset password' => 'Невозможно сбросить пароль',
   'Unread count next to topic' => 'Непрочитанный счетчик рядом с темой',
